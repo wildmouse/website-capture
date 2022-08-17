@@ -2,11 +2,11 @@
 
 ## How to capture 
 
-Run `node src/index.js` to capture for all seed values.
+Run `node src/index.js` to capture for all seed values. 
 
-default file name will be `seed.png`
+Webpage `localhost:8080/?seed=[seed]` will be captured with seed(0-10000) and saved as `[seed].png` 
 
-To custom file name and directory to save, set following variables: 
+To custom filename and save directory, set following variables: 
 
 - `directoryToSave`: directory to save capture.
 - `namePrefix`: prefix of file name.
