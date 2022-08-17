@@ -9,5 +9,5 @@ default file name will be `seed.png`
 To custom file name and directory to save, set following variables: 
 
 - `directoryToSave`: directory to save capture.
-- namePrefix: prefix of file name.
-- nameSuffix: suffix of file name.
+- `namePrefix`: prefix of file name.
+- `nameSuffix`: suffix of file name.
