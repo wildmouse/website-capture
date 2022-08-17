@@ -1,0 +1,19 @@
+{
+  "name": "website-capture",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wildmouse/website-capture.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wildmouse/website-capture/issues"
+  },
+  "homepage": "https://github.com/wildmouse/website-capture#readme"
+}
