@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/wildmouse/website-capture/issues"
   },
-  "homepage": "https://github.com/wildmouse/website-capture#readme"
+  "homepage": "https://github.com/wildmouse/website-capture#readme",
+  "dependencies": {
+    "webdriverio": "^7.21.0"
+  }
 }
